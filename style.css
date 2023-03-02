@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+body{
+width: 550px;
+height: 868px;
+background: #23252C;
+color: #DCDCDC;
+}
+.cls-main{
+    background: #1A1B21;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;   
+}
+.cls-myself{
+    display: block;
+    width: 400px;
+    padding: 0px;
+    text-align: center;
+}
+.my-img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.cls-about,.cls-interest{
+    padding: 0px 40px ;
+    margin: 0px;
+    color: #DCDCDC;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 50px 0px 0px 0px;
+    background-color: #00111a;
+    border-bottom-right-radius : 10px;
+    border-bottom-left-radius: 10px;
+}
+.btn{
+    padding: 5px 80px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+.myself-info{
+    color: #F3BF99;
+}
+.para,.paraInt{
+    padding: 0px;
+    line-height: 24px;
+}
